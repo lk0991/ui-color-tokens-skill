@@ -1,10 +1,10 @@
 # a11y-contrast-skill
 
-A standalone Copilot skill that captures practical contrast rules for accessible UI systems.
+A standalone Copilot skill for designing UI color token systems with strong accessibility and contrast guidance.
 
 ## Contents
 
-- `.agents/skills/contrast-accessibility/SKILL.md`
+- `.agents/skills/ui-color-tokens/SKILL.md`
 
 ## What this skill enforces
 
