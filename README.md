@@ -8,6 +8,7 @@ A standalone Copilot skill for designing UI color token systems with strong acce
 - `references/color-architecture.md`
 - `references/color-scale-playbook.md`
 - `references/component-color-patterns.md`
+- `references/handoff-to-design-tokens.md`
 
 ## What this skill enforces
 
